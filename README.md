@@ -31,6 +31,12 @@ Used to host a PDS?
 In the context of the GDPR: <legal>
 
 Can have different meanings in different communities.
+  
+Does not mean it belongs to a single person! (My birthday is also relevant for my mother. And it will be saved/storedhandled by different systems/organizations, e.g. the hospital and the gouvernment.)
+  
+### Ownership and control of data
+  
+Difficult and confusing legal stuff. TLDR: You can not control your data?
 
 ## Data Space
 

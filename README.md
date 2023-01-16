@@ -10,7 +10,7 @@ _Defining common terms in the Solid world_
 
 > the term “document” has become heavily overloaded within Solid, because the boundaries of a document capture more aspects than just the data within.
 
-Taken from   https://ruben.verborgh.org/blog/2022/12/30/lets-talk-about-pods/#mismatches
+See  https://ruben.verborgh.org/blog/2022/12/30/lets-talk-about-pods/#mismatches
 
 ## Solid
 

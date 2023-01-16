@@ -1,3 +1,6 @@
+**This is WIP and quite wrong! Don't rely on this.**
+
+
 # Solid Glossary
 
 _Defining common terms in the Solid world_

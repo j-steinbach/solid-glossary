@@ -64,3 +64,9 @@ _Alternative names for PDS?_
 
 The ID that identifies a (natural?) person in the PDS world.
 
+## RDF
+  
+## Provenance
+## Serendipity
+## Affordance
+
